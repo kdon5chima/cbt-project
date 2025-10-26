@@ -33,3 +33,5 @@ It automates test creation, grading, and performance analytics, helping schools 
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/CBT-System.git
+<img width="714" height="360" alt="cover" src="https://github.com/user-attachments/assets/6c351f15-aa28-45a6-b2c6-49ef1cc1803d" />
+
